@@ -1,0 +1,7 @@
+{
+  "name": "Demir Hocam Çalışma Salonu Yönetim Sistemi",
+  "description": "Öğrenci takip, masa yönetimi, finans ve otomatik bildirim sistemi içeren kapsamlı yönetim paneli.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
