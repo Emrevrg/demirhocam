@@ -546,7 +546,7 @@ export const StudentList: React.FC<StudentListProps> = ({ students, refreshData 
                 ></textarea>
 
                 <div className="text-xs text-gray-400">
-                    * Mesaj gönderildiğinde "Mesajlar > Giden Kutusu"na kaydedilecektir.
+                    * Mesaj gönderildiğinde "Mesajlar &gt; Giden Kutusu"na kaydedilecektir.
                 </div>
 
                 <Button onClick={handleSendMessage} disabled={isSending} className="w-full justify-center">
